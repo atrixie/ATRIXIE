@@ -1,126 +1,206 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Nikijon Kakati
+# Hi 👋, I'm Nikijon Kakati
 
 <h3 align="center">🚀 AI & Machine Learning Student | 🤖 Robotics Builder | 🧠 Future AI Engineer</h3>
 
 <p align="center">
-Building intelligent systems, autonomous robots, AI agents, and real-world technology solutions.
+Building AI-powered products, autonomous robots, machine learning systems, and intelligent automation solutions.
+</p>
+
+<p align="center">
+  <a href="https://smart-portfolio-smoky.vercel.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/nikijon-kakati-076a3337a/">💼 LinkedIn</a> •
+  <a href="mailto:nikijonkakati1@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning at KIIT University
+🎓 B.Tech in Artificial Intelligence & Machine Learning at KIIT University
 
-🤖 Passionate about Robotics, Autonomous Systems, Artificial Intelligence, and Full-Stack Development
-
-🚁 Building advanced drones, autonomous robots, and AI-powered applications
+🤖 Passionate about Robotics, Autonomous Systems, Artificial Intelligence, and Software Engineering
 
 🧠 Currently exploring:
 
-* Large Language Models (LLMs)
-* Agentic AI Systems
-* RAG Architectures
-* Computer Vision
+* Machine Learning
 * Deep Learning
+* Agentic AI
+* Large Language Models (LLMs)
+* Computer Vision
 * MLOps
+* Robotics with NVIDIA Jetson
 
-🚀 Working on:
+🚀 Currently Building:
 
 * AI Job Hunter Agent
 * Machine Learning Projects
 * Robotics Systems
 * AI Automation Tools
 
-🎯 Long-Term Goal:
-Become a world-class AI Engineer and Robotics Innovator developing intelligent systems that impact millions of people.
+🌍 Hackathon Finalist | NASA Space Apps Participant | Robotics Enthusiast
+
+🎯 Mission:
+
+To build intelligent systems and AI-powered products that solve real-world problems at scale.
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
+```text
 Python • C • C++ • JavaScript • SQL
-</p>
+```
 
-### Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
-<p>
-Machine Learning • NLP • Scikit-Learn • Pandas • NumPy • Matplotlib • Vertex AI
-</p>
+```text
+Machine Learning
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+NLP
+Vertex AI
+```
 
-### Robotics & Embedded Systems
+### ⚙️ Robotics & Embedded Systems
 
-<p>
-Arduino • Raspberry Pi • ROS • Embedded Systems • Sensor Integration • Motor Control
-</p>
+```text
+Arduino
+Raspberry Pi
+ROS
+Embedded Systems
+Sensor Integration
+Motor Control
+```
 
-### Web Development
+### 🌐 Web Development
 
-<p>
-HTML • CSS • React.js • Node.js
-</p>
+```text
+HTML
+CSS
+React.js
+Node.js
+```
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 
-<p>
-Git • GitHub • Docker • Kubernetes • VS Code • Linux • CI/CD
-</p>
+```text
+Git
+GitHub
+Docker
+Kubernetes
+Linux
+VS Code
+CI/CD
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Job Hunter Agent
+## 🤖 AI Job Hunter Agent (In Progress)
 
-An AI-powered job search assistant that:
+An intelligent AI-powered job search assistant that:
 
 ✅ Collects jobs from multiple platforms
 
-✅ Filters duplicate listings
+✅ Removes duplicate listings
 
-✅ Matches jobs to user skills
+✅ Matches jobs with user skills
 
 ✅ Generates intelligent recommendations
 
 ✅ Stores opportunities automatically
 
-**Tech:** Python, Pandas, AI APIs, Web Scraping
+**Tech Stack:**
+
+Python • Pandas • AI APIs • Automation • Data Processing
 
 ---
 
-### 🚁 Advanced Drone with HD Camera
+## 🩺 Diabetes Prediction using Machine Learning
 
-Designed and engineered a modular surveillance drone from scratch.
+🔗 Live Demo:
 
-Features:
+https://diabetes-prediction-mlgit-kyyn6pqxrxlapwqskifjfj.streamlit.app/
 
+A Machine Learning application that predicts the likelihood of diabetes using health-related parameters.
+
+### Features
+
+* Real-time prediction
+* User-friendly interface
+* Trained ML model
+* Streamlit deployment
+
+**Tech Stack**
+
+Python • Scikit-Learn • Pandas • Streamlit
+
+---
+
+## 🌐 Personal Portfolio Website
+
+🔗 Live Website:
+
+https://smart-portfolio-smoky.vercel.app
+
+A modern developer portfolio showcasing projects, skills, achievements, and career goals.
+
+### Features
+
+* Responsive Design
+* Modern UI
+* Project Showcase
+* Contact Information
+* Professional Branding
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Vercel
+
+---
+
+## 🚁 Advanced Drone with HD Camera
+
+Designed and engineered a modular drone system with integrated HD camera capabilities for aerial surveillance and exploration.
+
+### Highlights
+
+* Custom Drone Design
+* Wireless Control System
+* Embedded Electronics
 * HD Camera Integration
-* Wireless Control
-* Custom Mechanical Design
-* Real-Time Monitoring
 
-**Tech:** Python, Raspberry Pi, Arduino, Embedded Systems
+**Tech Stack**
+
+Python • Raspberry Pi • Arduino • Embedded Systems
 
 ---
 
-### 🤖 Autonomous Line Following Robot
+## 🤖 Autonomous Line Following Robot
 
-Built a competitive robotics platform using:
+Built an autonomous robot using IR sensors and PID-based motor control.
 
-* IR Sensors
-* PID Motor Control
+Originally developed for competitive robotics and later adapted for restaurant automation concepts.
+
+### Highlights
+
 * Autonomous Navigation
+* PID Motor Control
+* IR Sensor Tracking
+* Robotics Competitions
 
-Later adapted for restaurant automation concepts.
+**Tech Stack**
 
-**Tech:** Arduino, C/C++, Robotics
+Arduino • C/C++ • Robotics
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥈 Hackathon Finalist — KIIT Decode & Dominate
 
@@ -132,84 +212,92 @@ Later adapted for restaurant automation concepts.
 
 👨‍🏫 Robotics Mentor
 
-🌟 Active Member of AI & Robotics Communities
+🏅 Vertex AI Workshop Participant
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Johnson & Johnson MedTech Simulation
+## Tata iQ Data Analytics Simulation
 
-Robotics & Controls Engineering
-
-* Optimized robotic arm performance
-* Diagnosed control system inefficiencies
-* Proposed engineering improvements
-* Developed technical design recommendations
-
----
-
-### Tata iQ Data Analytics Simulation
-
-AI-Powered Data Analytics
-
+* AI-Powered Data Analytics
 * Exploratory Data Analysis
-* Risk Assessment
 * Predictive Modelling Concepts
 * Agentic AI Strategy Design
 
 ---
 
-## 📚 Currently Learning
+## Johnson & Johnson Robotics & Controls Simulation
 
-🌱 Deep Learning
-
-🌱 Computer Vision
-
-🌱 Generative AI
-
-🌱 Agentic AI
-
-🌱 Robotics with NVIDIA Jetson
-
-🌱 MLOps
-
-🌱 Cloud AI Platforms
+* Robotics Engineering Concepts
+* Control System Optimization
+* Performance Analysis
+* Technical Design Proposals
 
 ---
 
-## 🎯 2026 Goals
+# 📚 Currently Learning
 
-* Build 10 Production-Ready AI Projects
-* Master Machine Learning
-* Learn Deep Learning End-to-End
-* Deploy AI Systems to Production
-* Contribute to Open Source
-* Build Advanced Robotics Systems
-* Secure AI/ML Internship
+```text
+Deep Learning
+Computer Vision
+Generative AI
+Agentic AI
+NVIDIA Jetson Robotics
+Cloud AI Platforms
+MLOps
+```
 
 ---
 
-## 📊 GitHub Analytics
+# 🎯 2026 Goals
+
+☑ Build 10+ Production-Ready Projects
+
+☑ Master Machine Learning
+
+☑ Learn Deep Learning End-to-End
+
+☑ Deploy AI Applications
+
+☑ Contribute to Open Source
+
+☑ Secure AI/ML Internship
+
+☑ Build Advanced Robotics Systems
+
+---
+
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrixie\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atrixie\&layout=compact\&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atrixie\&theme=tokyonight)
+
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-💼 LinkedIn:
-[www.linkedin.com/in/nikijon-kakati-076a3337a](http://www.linkedin.com/in/nikijon-kakati-076a3337a)
+💼 LinkedIn
 
-📧 Email:
+[www.linkedin.com/in/nikijon-kakati-076a3337a/](http://www.linkedin.com/in/nikijon-kakati-076a3337a/)
+
+🌐 Portfolio
+
+https://smart-portfolio-smoky.vercel.app
+
+📧 Email
+
 [nikijonkakati1@gmail.com](mailto:nikijonkakati1@gmail.com)
 
 📍 Guwahati, Assam, India
 
 ---
 
-### ⚡ Personal Motto
+## ⚡ Personal Motto
 
-"Every commit, every project, and every challenge is a step toward building the future."
+> “Every project starts as an idea. Every commit turns that idea into reality.”
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
